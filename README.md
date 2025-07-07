@@ -1,5 +1,5 @@
 # LaserLapCounter
-A laser lap counter for mini-z rc cars 
+A laser lap counter for mini-z rc cars.
 
 # Project overview
 An laser barrier, connected to an arduino, will detect the passage of a car. The arduino will count the time elapsed between two laps and will send the data to the computer. The pc will save the data in a database and will display the result on a web page.
