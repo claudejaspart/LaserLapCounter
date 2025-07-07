@@ -13,8 +13,8 @@ The webpage will have the following features :
   * Select player
   * Select car and its configuration
   * Click start
-  * A voice will tell if any new record was made
-  * A voice will announce the lap number
+  * A vocal messaeg will tell if any new record was made
+  * A vocal message will announce the lap number
  
 Angular will be used for this project with Tailwind for the CSS, and mysql for the database. 
 
